@@ -31,3 +31,6 @@ After that open the strings file and add the API key in the string with name "mo
 
 ## Images
 
+![Most Popular Movies](/images/Most_Popular_Movies.png)
+![Movie Details](/images/Movie_Details.png)
+![Users Reviews](/images/User_Reviews.png)
