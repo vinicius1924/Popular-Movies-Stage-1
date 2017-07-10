@@ -31,6 +31,6 @@ After that open the strings file and add the API key in the string with name "mo
 
 ## Images
 
-![Most Popular Movies](/images/Most_Popular_Movies.png){:height="650px" width="390px"}
-![Movie Details](/images/Movie_Details.png){:height="700px" width="420px"}
-![Users Reviews](/images/User_Reviews.png){:height="700px" width="420px"}
+![Most Popular Movies](/images/Most_Popular_Movies.png)
+![Movie Details](/images/Movie_Details.png)
+![Users Reviews](/images/User_Reviews.png)
